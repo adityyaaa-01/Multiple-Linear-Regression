@@ -29,3 +29,8 @@ This project demonstrates the use of **Multiple Linear Regression** to predict a
 ## 📈 Result
 
 The model learns the relationship between features (experience, age) and salary, allowing predictions for unseen data. A 3D plot shows the regression plane fitted to the data.
+
+---
+
+**📌 Don't forget to star ⭐ the repository if you found it helpful!**
+
